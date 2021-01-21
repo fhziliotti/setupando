@@ -205,3 +205,11 @@ exit
 - Windows Magnifier = `magnify`
 - Windows Media Player = `wmplayer`
 - Wordpad = `write`
+
+## Power Shell
+### Lista Escopos DHCP baseado no Campo Descrição
+```bash
+Get-DhcpServerv4Scope -ComputerName IP_COMPUTADOR | where {$_.Description -like "WLAN"} | Select-Object ScopeID,SubnetMask,Description
+# Listar hosts dhcp
+Get-DhcpServerv4Lease -ComputerName IP_COMPUTADOR -scopeid IP_DA_REDE
+```
