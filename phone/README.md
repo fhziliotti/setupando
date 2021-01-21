@@ -1,0 +1,52 @@
+# Phone
+
+## Comandos Uteis Celular
+- Resetar o aparelho para as configurações de fábrica – ##7780##
+- Menu de configurações de teste – ##4636##
+- Formatar o smartphone – *2767*3855#
+- Obter informações detalhadas da câmera – ##34971539##
+- Modo de testes de serviços – ##197328640##
+- Criar um backup rápido – ##273283*255*663282*##
+- Testar a tela LCD – ##0*##
+- Obter detalhes da memória RAM – ##3264##
+- Descobrir a versão da tela de toque – ##2663##
+- Testar a luz de fundo e a vibração – ##0842##
+- Testar o sensor do aparelho – ##0588##
+- Testar a tela de toque – ##2664##
+- Menu secreto de informações do aparelho – ##4986*2650468##
+- Número da Build – ##44336##
+- Testar a rede sem fio – ##232339## ou ##528## ou ##526##
+- Descobrir o endereço MAC da rede WiFi – ##232338##
+- Teste rápido do GPS – ##1472365##
+- Testar a conexão Bluetooth – ##232331##
+- Descobrir o código de um dispositivo Bluetooth – ##232337##
+- Desligar o aparelho – ##7594##
+- Teste diferente para o GPS – ##1575##
+- Testar o áudio do telefone – ##0673## ou ##0289##
+- Realizar um teste de campo – ##7262626##
+- Abrir o monitoramente do serviço Google Talk – ##8255##
+- Descobrir o código IMEI do aparelho – *#06#
+- Ativar o registro de discagens por voz – ##8351##
+- Desativar o registro de discagens por voz – ##8350##
+- Acessar os controles de registros de conexões USB – *#872564#
+- Painel de controle HSDPA/HSUPA – *#301279#
+- Abrir a configuração de diagnósticos – *#9090#
+- Acessar o menu de testes de funções – ##3424##
+- Acessar o modo de diagnósticos – ##3424#
+- HTC EPST – ##3282#
+- Menu de testes de campo – ##33284#
+- HTC Vocoder – ##8626337#
+- Suporte logístico reverso – ##786#
+- Revisão de protocolo – ##7738#
+- Descobrir a versão do software – *#1234#
+- Informações sobre o hardware e o software – *#12580*369#
+- Conferir o status da bateria – *#0228#
+- Menu de serviços – *#0011#
+- Serviço USB – *#0808#
+- Acionar o modo de serviço – *#9090#
+- Acessar o menu FactoryKeystring – *#7284#
+- Menu do firmware da câmera – *#34971539#
+- Menu testmodus – #0#
+- Hard Reset – ##786##
+- Abrir o aplicativo Superuser – ##7873778## ou ##1234##
+- Conferir atualizações do sistema – ##2432546##
