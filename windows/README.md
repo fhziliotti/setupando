@@ -21,3 +21,20 @@ Ou deletar a chave e renomear a pasta em:
 ```bash
 gpupdate /force /wait:no
 ```
+
+## Criar Pendrive Bootável CMD
+```bash
+cmd
+diskpart
+list disk
+# Ver qual o disco correto pegar o numero
+select disc X
+clean
+create partition primary
+select partition 1
+format fs=ntfs quick
+assign
+active
+exit
+exit
+```
